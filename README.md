@@ -1,1 +1,1 @@
-# Gesture_Recognition
+# Gesture_Recognition Project
